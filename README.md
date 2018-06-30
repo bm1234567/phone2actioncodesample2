@@ -1,7 +1,7 @@
 
-------------
-Code Sample
-------------
+-------------
+Code Sample 2
+-------------
 
 So, here's the premise I went with for demo purposes:
 
